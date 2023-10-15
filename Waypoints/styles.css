@@ -1,0 +1,15 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+.section-first {
+   height: 200vh;
+   background-color: #b8c8c8;
+}
+
+.section-second {
+   height: 100vh;
+   background-color: #c8c0c0;
+}
