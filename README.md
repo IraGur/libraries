@@ -1,2 +1,2 @@
-# libraries1
+# libraries
 aos-swiper-fs lightbox-waypoints
